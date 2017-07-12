@@ -1,2 +1,3 @@
 1.绘图用的是canvas
 2.算法参考的是别人的（采用的是每次计算遍历棋盘的策略），但是源代码是有bug的，自己进行了修改，思想还是采用的原作者。
+3.附上游戏地址（未做兼容，建议使用chorme浏览器）：https://eternaldeath.github.io/Font-end-Game/Gobang%EF%BC%88%E4%BA%94%E5%AD%90%E6%A3%8B%EF%BC%89/index.html
