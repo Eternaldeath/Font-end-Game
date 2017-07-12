@@ -1,0 +1,12 @@
+body{
+	background-color: darkgrey;
+}
+canvas{
+	background-color: white;
+	display: block;
+	margin: 50px auto;
+	box-shadow: 5px 5px 5px grey,-1px -1px 1px lightgrey;
+}
+.buju{
+	text-align: center;
+}
