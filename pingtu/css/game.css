@@ -1,0 +1,42 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-color: lightblue;
+	text-align: center;
+}
+.gamewrap{
+	width: 1000px;
+	height: 480px;
+	margin-top: 50px;
+}
+.cell{
+	width: 50%;
+	height: 100%;
+	float: left;
+}
+.pic{
+	width: 50%;
+	height: 100%;
+	float: right;
+	border: 1px solid black;
+}
+
+table{
+	width: 480px;
+	height: 480px;
+	border: 1px solid black;
+	background: white;
+	margin: auto 10px;
+}
+td{
+	border: 1px solid black;
+	width: 160px;
+	height: 160px;
+}
+img{
+	width: 160px;
+	height: 160px;
+}
+

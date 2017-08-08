@@ -1,0 +1,14 @@
+$(document).ready(function(){
+	$('.content').mouseover(function(){
+		$('.cover').show();
+	});
+	$('.content').mouseout(function(){
+		$('.cover').hide();
+	})
+	$('.content2').mouseover(function(){
+		$('.cover2').show();
+	});
+	$('.content2').mouseout(function(){
+		$('.cover2').hide();
+	})
+});
